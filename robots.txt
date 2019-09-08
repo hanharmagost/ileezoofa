@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aemaushahx.cdalto.com/sitemap.xml
